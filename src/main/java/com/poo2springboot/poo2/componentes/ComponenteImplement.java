@@ -1,4 +1,4 @@
-package com.poo2springboot.poo2;
+package com.poo2springboot.poo2.componentes;
 
 
 import org.springframework.stereotype.Component;
